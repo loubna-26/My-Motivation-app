@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Motivation</string>
+    <string name="daily_motivation">DAILY MOTIVATION :</string>
+    <string name="tv_Frase">Believe in yourself, and everything will be possible.</string>
+    <string name="btn_Nueva_Frase">New phrase ✨</string>
+    <string name="btn_Favorito">♡</string>
+    <string name="btn_see_favoritos">View my favorites ♥</string>
+</resources>
